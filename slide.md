@@ -22,4 +22,11 @@ date: February 4, 2020
 
 # SOTA Algorithm
 * Branch and Bound
-![](bab.png "TSP")
+![](bab.png "Branch and Bound")
+
+# Implementations
+* Commercial
+    * Gurobi
+    * CPLEX
+* Open Source
+    * CBC
